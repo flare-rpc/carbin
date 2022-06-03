@@ -1,0 +1,2 @@
+# carbin
+cmake setuptools conda
