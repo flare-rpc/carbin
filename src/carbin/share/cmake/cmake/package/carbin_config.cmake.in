@@ -1,0 +1,11 @@
+################################################################
+#
+# Copyright (c) 2022, liyinbin
+# All rights reserved.
+# Author by liyibin (jeff.li)
+#
+#################################################################
+
+@PACKAGE_INIT@
+
+include ("${CMAKE_CURRENT_LIST_DIR}/@PROJECT_NAME@Targets.cmake")
